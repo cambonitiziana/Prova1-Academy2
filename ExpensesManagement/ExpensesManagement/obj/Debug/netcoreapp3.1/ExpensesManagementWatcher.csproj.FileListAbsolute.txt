@@ -1,0 +1,12 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.runtimeconfig.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.runtimeconfig.dev.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\bin\Debug\netcoreapp3.1\ExpensesManagementWatcher.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana1\Week1Test\ExpensesManagement\ExpensesManagement\obj\Debug\netcoreapp3.1\ExpensesManagementWatcher.genruntimeconfig.cache

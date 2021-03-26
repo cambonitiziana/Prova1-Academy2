@@ -1,0 +1,5 @@
+03-02-2021;Spese Domestiche; detersivi; 15,99
+07-06-2020;Spese Alimentari; prosciutto; 3,99
+20-02-2021;Spese Alimentari; Frutta; 7,99
+31-01-2021;Spese Domestiche; Lenzuola; 15,99
+15-01-2021;Mutuo; Rata 19; 1000,00
